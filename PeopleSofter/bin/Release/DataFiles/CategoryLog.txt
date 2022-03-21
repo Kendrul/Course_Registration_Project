@@ -1,0 +1,7 @@
+category	catLong	Faculty
+CPSC	Computer Science	Faculty of Science
+HTST	Historical Studies	Faculty of Arts
+MATH	Mathematics	Faculty of Science
+PHIL	Philosophy	Faculty of Arts
+SENG	Software Engineering	Faculty of Engineering
+ENGL	English	Faculty of Arts

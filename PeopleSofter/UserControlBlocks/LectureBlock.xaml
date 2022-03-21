@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="PeopleSofter.LectureBlock"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="157" d:DesignWidth="133.4" Margin="10,15,0,0">
+    <Grid>
+        <Button x:Name="courseLecButt" HorizontalAlignment="Left" Height="157" VerticalAlignment="Top" Width="133.4" FontWeight="Bold" Background="#FFA7C0DC" Click="lbClick" Margin="0">
+            <StackPanel Height="157" Width="133.4">
+                <TextBlock x:Name="lbCourseName" TextWrapping="Wrap" Text="CPSC 481" Height="25                            " Margin="0,0,-0.4,0" FontSize="16" TextAlignment="Center" FontWeight="Normal"/>
+                <TextBlock x:Name="lbNameLong" TextWrapping="Wrap" Text="Human-Computer Interaction I" TextAlignment="Center" Padding="0,0,0,20" FontWeight="Normal" Margin="0,0,10.6,0" Height="62"/>
+                <TextBlock x:Name="lbLecSection" TextWrapping="Wrap" Height="20" Margin="0,0,-0.4,0" TextAlignment="Center" FontWeight="Bold" Padding="0,0,0,10"><Run Text="Lecture "/><Run Text="1"/></TextBlock>
+                <TextBlock x:Name="lbTime" TextWrapping="Wrap" Text="MWF 10:00 - 10:50" FontWeight="Bold" TextAlignment="Center"/>
+                <TextBlock x:Name="lbProf" TextWrapping="Wrap" Text="Prof: Ehud Sharlin" Margin="0,0,10.6,0" Height="20" TextAlignment="Center" FontWeight="Bold"/>
+            </StackPanel>
+        </Button>
+
+    </Grid>
+</UserControl>  
