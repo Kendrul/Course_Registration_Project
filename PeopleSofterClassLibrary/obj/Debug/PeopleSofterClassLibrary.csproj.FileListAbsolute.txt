@@ -1,0 +1,7 @@
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\bin\Debug\PeopleSofterClassLibrary.dll.config
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\bin\Debug\PeopleSofterClassLibrary.dll
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\bin\Debug\PeopleSofterClassLibrary.pdb
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\obj\Debug\PeopleSofterClassLibrary.Properties.Resources.resources
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\obj\Debug\PeopleSofterClassLibrary.csproj.GenerateResource.Cache
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\obj\Debug\PeopleSofterClassLibrary.dll
+C:\Users\Jason Schneider\Documents\a2\PeopleSofter\PeopleSofterClassLibrary\obj\Debug\PeopleSofterClassLibrary.pdb
